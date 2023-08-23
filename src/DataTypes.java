@@ -6,10 +6,7 @@ public class DataTypes
 	static int i1=10;
 	static boolean result;
 	static char ch='b';
-	
-	 
-	
-	
+	static char ch='c';
 	public static void main(String[] args) {
 		int i=10;//hard coded
 		
