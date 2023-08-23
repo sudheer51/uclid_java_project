@@ -5,7 +5,7 @@ public class DataTypes
 	 static byte b1;
 	static int i1=10;
 	static boolean result;
-	static char ch='a';
+	static char ch='b';
 	
 	 
 	
