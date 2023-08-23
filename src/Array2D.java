@@ -14,7 +14,7 @@ public class Array2D {
 
 		int data[][]=  {
 				{10,20,30,70},
-				{40,50,60,80}
+				{40,50,60,90}
 		};
 
 		System.out.println(data[1][1]);
